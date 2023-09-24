@@ -52,10 +52,10 @@ local chatTagColor
 if whitelistType == "private" then
   local user = game.Players.LocalPlayer
   print("[*]: System Alert: Welcome To Shibahub - [Build: Private]\n")
-  loadstring(game:HttpGet('https://raw.githubusercontent.com/FancySans/TheRealShibahub/main/E'))()
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/FancySans/EEE/main/Sup'))()
 elseif whitelistType == "developer" then
   local user = game.Players.LocalPlayer
-  loadstring(game:HttpGet('https://raw.githubusercontent.com/FancySans/TheRealShibahub/main/E'))()
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/FancySans/EEE/main/Sup'))()
   print("[*]: System Alert: Welcome To Shibahub - [Build: Developer]\n")
 elseif whitelistType == "blacklist" then 
 local user = game.Players.LocalPlayer 
